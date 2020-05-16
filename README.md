@@ -1,3 +1,3 @@
 # 🎶 Xylophone
 
-A Flutter music app that plays Xylophone sounds
+A Flutter music app that plays Xylophone sounds.
